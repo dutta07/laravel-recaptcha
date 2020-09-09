@@ -50,7 +50,7 @@
         "laravel": {
             "providers": [
                 "Biscolab\\ReCaptcha\\ReCaptchaServiceProvider"
-            ],
+            ], 
             "aliases": {
                 "ReCaptcha": "Biscolab\\ReCaptcha\\Facades\\ReCaptcha"
             }
